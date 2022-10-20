@@ -1,1 +1,3 @@
 teskr 1235678
+tekst 1
+teks2
